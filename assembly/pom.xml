@@ -77,7 +77,7 @@
       <dependency>
         <groupId>com.amazonaws</groupId>
         <artifactId>aws-java-sdk</artifactId>
-        <version>${awssdk.version}</version>
+        <version>1.7.4</version>
       </dependency>
       <dependency>
         <groupId>org.apache.hadoop</groupId>
